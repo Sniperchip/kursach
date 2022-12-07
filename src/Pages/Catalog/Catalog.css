@@ -1,0 +1,12 @@
+.actions {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  gap: 9px;
+  justify-content: space-between;
+}
+
+.actions > div {
+  margin: 0 !important;
+}
